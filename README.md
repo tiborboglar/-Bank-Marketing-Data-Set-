@@ -1,9 +1,8 @@
 # Bank Marketing Data Set
 
-Análise dos dados fornecidos em:
+Análise se encontra no ipython notebook: Bank Marketing.ipynb
 
-https://archive.ics.uci.edu/ml/datasets/bank+marketing#
-
+Dados fornecidos em: https://archive.ics.uci.edu/ml/datasets/bank+marketing#
 
 Bibliotecas utilizadas: numpy, pandas, matplotlib, seaborn, scikit-learn
 
